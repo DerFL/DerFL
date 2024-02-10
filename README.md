@@ -12,7 +12,7 @@
 🐇 Bunny lover
 
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=DerFL&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=DerFL&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&size_weight=0.2&count_weight=0.8"
     alt="DerFL" 
     bg_color=#808080/></p>
 <sub><sup><sub><sup>If you can read this, have a good day, you're awesome :)</sup></sub></sup></sub>
